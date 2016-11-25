@@ -1,0 +1,1336 @@
+{
+  "timed_out": false,
+  "page": 1,
+  "results": [
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/3551/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 3551,
+      "tags": [
+        {
+          "name": "Hiring Managers",
+          "short_name": "hiring-managers",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/hiring-managers"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Job Search Month 2014",
+          "short_name": "job-search-month-2014",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search-month-2014"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Join us for a live, interactive event with hiring managers from some of the most amazing companies to work for, including Facebook, Tumblr, Birchbox, and The Muse.",
+      "short_name": "find-out-what-the-top-hiring-managers-really-want",
+      "publication_date": "2014-01-22T22:15:49Z",
+      "author": {
+        "name": "The Daily Muse Editor",
+        "alt_text": null,
+        "short_name": "editor",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/editor",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30301/authorship_primary.jpg?v=1a353d2da6565d47a2f59904a9eac6e333df17c725ea4434b45baef46d281b49"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/find-out-what-the-top-hiring-managers-really-want",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/9159.jpg"
+      },
+      "name": "Find Out What the Top Hiring Managers Really Want"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1640/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 1640,
+      "tags": [
+        {
+          "name": "Career",
+          "short_name": "career",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career"
+          }
+        },
+        {
+          "name": "Hiring",
+          "short_name": "hiring",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/hiring"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Management",
+          "short_name": "management",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/management"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Interviewing isn't easy—on either side of the table. Before you hold your next interview, make sure you’re not inadvertently making one of these four common interviewer mistakes.",
+      "short_name": "4-ways-you-might-be-turning-your-interviewees-off",
+      "publication_date": "2012-11-12T12:45:32Z",
+      "author": {
+        "name": "Sara McCord",
+        "alt_text": null,
+        "short_name": "sara-mccord",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/sara-mccord",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30479/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/4-ways-you-might-be-turning-your-interviewees-off",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/6733.jpg"
+      },
+      "name": "4 Ways You Might Be Turning Your Interviewees Off"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1780/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 1780,
+      "tags": [
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Should you keep things strictly professional when you show up to the interview? Actually, maybe not. According to a new study, hiring managers may place more weight on your friendliness and likability than on your skills.",
+      "short_name": "the-surprising-secret-to-acing-your-next-interview",
+      "publication_date": "2012-12-16T18:10:32Z",
+      "author": {
+        "name": "LearnVest",
+        "alt_text": "Alden Wicker of LearnVest",
+        "short_name": "learnvest",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/learnvest",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30520/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/the-surprising-secret-to-acing-your-next-interview",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/5115.jpg"
+      },
+      "name": "The Surprising Secret to Acing Your Next Interview"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1922/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 1922,
+      "tags": [
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Job Search Month 2013",
+          "short_name": "job-search-month-2013",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search-month-2013"
+          }
+        },
+        {
+          "name": "Social Media",
+          "short_name": "social-media",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/social-media"
+          }
+        },
+        {
+          "name": "Social Media & Blogging",
+          "short_name": "social-media-blogging",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/social-media-blogging"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "You've just interviewed for your dream job. You want to send a thank you, while also solidifying what a creative and tech-savvy candidate you are. So, should you send a grateful tweet? Say \"thanks\" on Facebook? This job search expert weighs in.",
+      "short_name": "should-you-follow-up-on-social-media",
+      "publication_date": "2013-01-21T18:44:50Z",
+      "author": {
+        "name": "Jenny Foss",
+        "alt_text": null,
+        "short_name": "jenny-foss",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/jenny-foss",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30362/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/should-you-follow-up-on-social-media",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/5414.jpg"
+      },
+      "name": "Should You Follow Up on Social Media?"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/5275/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 5275,
+      "tags": [
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "MarketWatch",
+          "short_name": "marketwatch",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/marketwatch"
+          }
+        },
+        {
+          "name": "Startups",
+          "short_name": "startups",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startups"
+          }
+        },
+        {
+          "name": "Tech",
+          "short_name": "tech",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/tech"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "syndicated",
+      "excerpt": "Be prepared for: \"Describe Google as a person.\"",
+      "short_name": "10-crazy-interview-questions-tech-companies-actually-ask",
+      "publication_date": "2014-10-15T14:21:57Z",
+      "author": {
+        "name": "MarketWatch",
+        "alt_text": "Catey Hill of MarketWatch",
+        "short_name": "marketwatch",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/marketwatch",
+          "image": "https://assets-cf.themuse.com/uploaded/user/73884/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/10-crazy-interview-questions-tech-companies-actually-ask",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/15464.jpg"
+      },
+      "name": "10 Crazy Interview Questions Tech Companies Actually Ask"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/5333/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 5333,
+      "tags": [
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "LearnVest",
+          "short_name": "learnvest",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/learnvest"
+          }
+        },
+        {
+          "name": "Mistakes",
+          "short_name": "mistakes",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/mistakes"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "syndicated",
+      "excerpt": "The biggest interview face-palm moments ever.",
+      "short_name": "10-epic-interview-mistakes-people-actually-made",
+      "publication_date": "2014-10-23T12:47:28Z",
+      "author": {
+        "name": "LearnVest",
+        "alt_text": "Molly Triffin of LearnVest",
+        "short_name": "learnvest",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/learnvest",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30520/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/10-epic-interview-mistakes-people-actually-made",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/15520.jpg"
+      },
+      "name": "10 Epic Interview Mistakes People Actually Made"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/3023/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 3023,
+      "tags": [
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Job Search Videos",
+          "short_name": "job-search-videos",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search-videos"
+          }
+        },
+        {
+          "name": "Social Media",
+          "short_name": "social-media",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/social-media"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "Webinars",
+          "short_name": "webinars",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/webinars"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Fall is the best time of year to kick off your job hunt, and these three webinars will make sure you're set up for job search success!",
+      "short_name": "want-a-new-job-this-fall-watch-our-webinars",
+      "publication_date": "2013-09-27T14:59:30Z",
+      "author": {
+        "name": "The Daily Muse Editor",
+        "alt_text": null,
+        "short_name": "editor",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/editor",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30301/authorship_primary.jpg?v=1a353d2da6565d47a2f59904a9eac6e333df17c725ea4434b45baef46d281b49"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/want-a-new-job-this-fall-watch-our-webinars",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/7881.jpg"
+      },
+      "name": "Want a New Job This Fall? Watch Our Webinars!"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1565/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 1565,
+      "tags": [
+        {
+          "name": "Consulting",
+          "short_name": "consulting",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/consulting"
+          }
+        },
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "You’ve aced the case, nailed the meet-and-greet, and now, there’s just one thing between you and that consulting gig: the quantitative analysis. This part of the interview process can be daunting, but we've pulled together some smart advice for nailing it. ",
+      "short_name": "secrets-for-cracking-the-quant-interview",
+      "publication_date": "2012-10-25T12:32:31Z",
+      "author": {
+        "name": "Alex Cavoulacos",
+        "alt_text": null,
+        "short_name": "alex-cavoulacos",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/alex-cavoulacos",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30304/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/secrets-for-cracking-the-quant-interview",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/4517.jpg"
+      },
+      "name": "Secrets for Cracking the Quant Interview"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1951/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 1951,
+      "tags": [
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Just been invited for a 4-hour interview? You might very well be facing the Apprentice-style interview, where you'll be asked to solve problems or complete challenges as a team. Here's what you need to know to shine.",
+      "short_name": "how-to-crack-apprenticestyle-interviews",
+      "publication_date": "2013-01-28T14:03:47Z",
+      "author": {
+        "name": "Jake Dougherty",
+        "alt_text": null,
+        "short_name": "jake-dougherty",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/jake-dougherty",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30598/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/how-to-crack-apprenticestyle-interviews",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/5501.jpg"
+      },
+      "name": "How to Crack Apprentice-Style Interviews"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/109/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 109,
+      "tags": [
+        {
+          "name": "Finding a Job",
+          "short_name": "finding-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/finding-a-job"
+          }
+        },
+        {
+          "name": "First job",
+          "short_name": "first-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/first-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "New Jobs",
+          "short_name": "new-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/new-job"
+          }
+        },
+        {
+          "name": "Undergrads",
+          "short_name": "undergrads",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/undergrads"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "If you're about to graduate and thinking about your first job, you probably know all of the parent-approved must-haves: good salary, medical benefits, 401(k) matching. But here's what else you should keep in mind during your first foray into the professional world.",
+      "short_name": "what-to-look-for-in-a-first-job",
+      "publication_date": "2011-09-07T13:30:57Z",
+      "author": {
+        "name": "Ashley Faus",
+        "alt_text": null,
+        "short_name": "ashley-faus",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/ashley-faus",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30325/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/what-to-look-for-in-a-first-job",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/390.jpg"
+      },
+      "name": "What to Look for in a First Job"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/909/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 909,
+      "tags": [
+        {
+          "name": "Infographics",
+          "short_name": "infographics",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/infographics"
+          }
+        },
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "It’s graduation season, and for many new and soon-to-be grads, that means it’s job-hunting season, too. But if you’re new to job interviews, don’t panic. Start with this quick visual guide to everything you need to know.",
+      "short_name": "a-new-grads-guide-to-job-interviews",
+      "publication_date": "2012-05-04T17:16:57Z",
+      "author": {
+        "name": "JuJu Kim",
+        "alt_text": null,
+        "short_name": "juju-kim",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/juju-kim",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30307/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/a-new-grads-guide-to-job-interviews",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/2433.jpg"
+      },
+      "name": "A New Grad's Guide to Job Interviews"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/3308/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 3308,
+      "tags": [
+        {
+          "name": "Hired by Ryan Kahn",
+          "short_name": "hired-by-ryan-kahn",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/hired-by-ryan-kahn"
+          }
+        },
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Every once in a while, it happens: the surprise interview. Here's how to boost your confidence for the big event—in just under an hour.",
+      "short_name": "surprise-how-to-get-ready-for-an-interviewin-less-than-an-hour",
+      "publication_date": "2013-11-26T20:10:37Z",
+      "author": {
+        "name": "Ryan Kahn",
+        "alt_text": null,
+        "short_name": "ryan-kahn",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/ryan-kahn",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30663/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/surprise-how-to-get-ready-for-an-interviewin-less-than-an-hour",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/8620.jpg"
+      },
+      "name": "Surprise! How to Get Ready for an Interview—in Less Than an Hour"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/3426/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 3426,
+      "tags": [
+        {
+          "name": "Finding a Job",
+          "short_name": "finding-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/finding-a-job"
+          }
+        },
+        {
+          "name": "First job",
+          "short_name": "first-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/first-job"
+          }
+        },
+        {
+          "name": "Infographics",
+          "short_name": "infographics",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/infographics"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "OK, you'll never get around the resume and cover letter, but there are a few things that can help make your job search a little easier. ",
+      "short_name": "the-shortcuts-to-landing-your-first-job",
+      "publication_date": "2013-12-23T17:03:01Z",
+      "author": {
+        "name": "The Daily Muse Editor",
+        "alt_text": null,
+        "short_name": "editor",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/editor",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30301/authorship_primary.jpg?v=1a353d2da6565d47a2f59904a9eac6e333df17c725ea4434b45baef46d281b49"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/the-shortcuts-to-landing-your-first-job",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/21467.jpg?v=b8d9d8d6e1a0893002cee49fba685e663d4c8fd3cfaa2c8a6340979eddce5434"
+      },
+      "name": "The Shortcuts to Landing Your First Job"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/6608/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 6608,
+      "tags": [
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "syndicated",
+      "excerpt": "Just because you finish an interview doesn't mean you're done. ",
+      "short_name": "5-questions-you-need-to-ask-yourself-after-any-interview",
+      "publication_date": "2015-05-01T11:45:07Z",
+      "author": {
+        "name": "Jaime Petkanics",
+        "alt_text": null,
+        "short_name": "jaime-petkanics",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/jaime-petkanics",
+          "image": "https://assets-cf.themuse.com/uploaded/user/60725/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/5-questions-you-need-to-ask-yourself-after-any-interview",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/17106.jpg"
+      },
+      "name": "5 Questions You Need to Ask Yourself After Any Interview"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1976/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 1976,
+      "tags": [
+        {
+          "name": "Finding a Job",
+          "short_name": "finding-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/finding-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Job Search Month 2013",
+          "short_name": "job-search-month-2013",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search-month-2013"
+          }
+        },
+        {
+          "name": "Q&A Interviews",
+          "short_name": "qa-interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/qa-interviews"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Anna Post (yes, the great-great-granddaughter of Emily Post) is pretty much the final word on all things etiquette. So we sat down with her and picked her brain on a few sticky job search situations.",
+      "short_name": "job-search-etiquette-a-qa-with-anna-post",
+      "publication_date": "2013-02-03T13:28:13Z",
+      "author": {
+        "name": "Briana Fasone",
+        "alt_text": null,
+        "short_name": "briana-fasone",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/briana-fasone",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30579/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/job-search-etiquette-a-qa-with-anna-post",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/5550.jpeg"
+      },
+      "name": "Job Search Etiquette: A Q&A With Anna Post"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/476/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 476,
+      "tags": [
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Job Search Month",
+          "short_name": "job-search-month",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search-month"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "What does it take to become Miss America? Wit, intelligence, confidence—and phenomenal interviewing skills. Here’s what one contestant learned about acing a job interview, all from trying to land that crown.",
+      "short_name": "what-i-learned-about-interviewing-from-miss-america",
+      "publication_date": "2012-01-12T21:28:47Z",
+      "author": {
+        "name": "Ashley Cobert",
+        "alt_text": null,
+        "short_name": "ashley-cobert",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/ashley-cobert",
+          "image": "https://assets-cf.themuse.com/uploaded/user/374/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/what-i-learned-about-interviewing-from-miss-america",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/1363.jpg"
+      },
+      "name": "What I Learned About Interviewing from Miss America"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/579/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 579,
+      "tags": [
+        {
+          "name": "Career",
+          "short_name": "career",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Management",
+          "short_name": "management",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/management"
+          }
+        },
+        {
+          "name": "Management Style",
+          "short_name": "management-style",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/management-style"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Hiring someone for the first time can be intimidating—from screening resumes and coming up with questions to picking the right person for the job. Here's a crash course in interviewing when you're the one making the hire.",
+      "short_name": "interviewing-101from-the-other-side-of-the-table",
+      "publication_date": "2012-02-11T20:55:26Z",
+      "author": {
+        "name": "Matt Sundquist",
+        "alt_text": null,
+        "short_name": "matt-sundquist",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/matt-sundquist",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30429/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/interviewing-101from-the-other-side-of-the-table",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/6752.jpg"
+      },
+      "name": "Interviewing 101—From the Other Side of the Table"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2606/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 2606,
+      "tags": [
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Job Skills",
+          "short_name": "job-skills",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-skills"
+          }
+        },
+        {
+          "name": "Startups",
+          "short_name": "startups",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startups"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Not all interviews are created equal—so if you've landed one at a start-up, your traditional interview strategies may not cut it.",
+      "short_name": "mustdo-strategies-for-your-startup-interview",
+      "publication_date": "2013-06-21T11:10:58Z",
+      "author": {
+        "name": "Marie Burns",
+        "alt_text": null,
+        "short_name": "marie-burns",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/marie-burns",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30495/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/mustdo-strategies-for-your-startup-interview",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/7139.jpg"
+      },
+      "name": "Must-Do Strategies for Your Start-Up Interview"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/5208/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 5208,
+      "tags": [
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Interviews are tricky, but you don't have to let these five mistakes get you down.",
+      "short_name": "5-subtle-ways-youre-sabotaging-yourself-in-an-interview",
+      "publication_date": "2014-10-03T17:05:51Z",
+      "author": {
+        "name": "Lily Zhang",
+        "alt_text": null,
+        "short_name": "lily-zhang",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/lily-zhang",
+          "image": "https://assets-cf.themuse.com/uploaded/user/38368/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/5-subtle-ways-youre-sabotaging-yourself-in-an-interview",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/15364.jpg"
+      },
+      "name": "5 Subtle Ways You're Sabotaging Yourself in an Interview"
+    },
+    {
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "image": "https://assets-cf.themuse.com/uploaded/posts/3400/sponsor_image.jpg",
+          "link": null
+        }
+      },
+      "id": 3400,
+      "tags": [
+        {
+          "name": "Hired by Ryan Kahn",
+          "short_name": "hired-by-ryan-kahn",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/hired-by-ryan-kahn"
+          }
+        },
+        {
+          "name": "Hiring Managers",
+          "short_name": "hiring-managers",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/hiring-managers"
+          }
+        },
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Interviews",
+          "short_name": "interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "model_type": "posts",
+      "type": "normal",
+      "excerpt": "Make sure you’ve got these “little” things covered, and all your interviewer will have left to focus on is your resume and stellar personality.",
+      "short_name": "3-little-details-interviewers-always-notice",
+      "publication_date": "2013-12-17T19:46:40Z",
+      "author": {
+        "name": "Ryan Kahn",
+        "alt_text": null,
+        "short_name": "ryan-kahn",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/ryan-kahn",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30663/authorship_primary.jpg"
+        }
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/3-little-details-interviewers-always-notice",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/8851.jpg"
+      },
+      "name": "3 Little Details Interviewers Always Notice"
+    }
+  ],
+  "total": 317,
+  "took": 8,
+  "page_count": 16
+}

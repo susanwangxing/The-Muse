@@ -1,0 +1,1371 @@
+{
+  "took": 2,
+  "total": 620,
+  "timed_out": false,
+  "page_count": 31,
+  "results": [
+    {
+      "name": "10 Networking Mistakes That Will Ruin Your Professional Relationships",
+      "type": "syndicated",
+      "tags": [
+        {
+          "name": "Communication",
+          "short_name": "communication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/communication"
+          }
+        },
+        {
+          "name": "Inc.",
+          "short_name": "inc",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/inc"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Workplace Relationships",
+          "short_name": "workplace-relationships",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/workplace-relationships"
+          }
+        },
+        {
+          "name": "Work Relationships",
+          "short_name": "work-relationships",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/work-relationships"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/10-networking-mistakes-that-will-ruin-your-professional-relationships",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/16386.jpg"
+      },
+      "publication_date": "2015-02-05T12:31:05Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/6007/sponsor_image.jpg"
+        }
+      },
+      "short_name": "10-networking-mistakes-that-will-ruin-your-professional-relationships",
+      "model_type": "posts",
+      "excerpt": "Add them to your never-to-do-list. ",
+      "author": {
+        "name": "Inc.",
+        "short_name": "inc",
+        "alt_text": "Suzanne Lucas of Inc.",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/inc",
+          "image": "https://assets-cf.themuse.com/uploaded/user/56748/authorship_primary.jpg"
+        }
+      },
+      "id": 6007
+    },
+    {
+      "name": "This App Will Make Anyone a Pro Networker",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Apps",
+          "short_name": "apps",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/apps"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "Work Relationships",
+          "short_name": "work-relationships",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/work-relationships"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/this-app-will-make-anyone-a-pro-networker",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/15657.jpg"
+      },
+      "publication_date": "2014-11-09T11:43:15Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/5451/sponsor_image.jpg"
+        }
+      },
+      "short_name": "this-app-will-make-anyone-a-pro-networker",
+      "model_type": "posts",
+      "excerpt": "You're one download away from winning friends and influencing people.",
+      "author": {
+        "name": "Aja Frost",
+        "short_name": "aja-frost",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/aja-frost",
+          "image": "https://assets-cf.themuse.com/uploaded/user/59610/authorship_primary.jpg"
+        }
+      },
+      "id": 5451
+    },
+    {
+      "name": "The Best New Way to Stalk Your Contacts",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Social Media",
+          "short_name": "social-media",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/social-media"
+          }
+        },
+        {
+          "name": "Social Media & Blogging",
+          "short_name": "social-media-blogging",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/social-media-blogging"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "Tech",
+          "short_name": "tech",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/tech"
+          }
+        },
+        {
+          "name": "Tools & Skills",
+          "short_name": "tools-skills",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/tools-skills"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/the-best-new-way-to-stalk-your-contacts",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/4727.png"
+      },
+      "publication_date": "2012-11-16T16:04:17Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1660/sponsor_image.jpg"
+        }
+      },
+      "short_name": "the-best-new-way-to-stalk-your-contacts",
+      "model_type": "posts",
+      "excerpt": "You follow all your colleagues and professional contacts on Facebook and LinkedIn, but somehow you still manage to know less about their professional lives than you do about what they ate for lunch today. Well, that's about to change, thanks to a cool new site, Newsle.",
+      "author": {
+        "name": "The Daily Muse Editor",
+        "short_name": "editor",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/editor",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30301/authorship_primary.jpg?v=1a353d2da6565d47a2f59904a9eac6e333df17c725ea4434b45baef46d281b49"
+        }
+      },
+      "id": 1660
+    },
+    {
+      "name": "Best of 2012: 10 Networking Conversation Starters You'll Actually Use",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Best of 2012",
+          "short_name": "best-of-2012",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/best-of-2012"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/best-of-2012-10-networking-conversation-starters-youll-actually-use",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/4444.jpg"
+      },
+      "publication_date": "2012-12-18T13:41:38Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1789/sponsor_image.jpg"
+        }
+      },
+      "short_name": "best-of-2012-10-networking-conversation-starters-youll-actually-use",
+      "model_type": "posts",
+      "excerpt": "Let's face it: Networking can be awkward—especially the whole walk up to someone you don't know and start a conversation bit. But we've got you covered with 10 easy, non-awkward opening lines that actually will break the ice (in a good way).",
+      "author": {
+        "name": "Jessica Gordon",
+        "short_name": "jessica-gordon",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/jessica-gordon",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30420/authorship_primary.jpg"
+        }
+      },
+      "id": 1789
+    },
+    {
+      "name": "The Secrets of Networking: Advice From Cathie Black",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Mentors",
+          "short_name": "mentors",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/mentors"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/the-secrets-of-networking-advice-from-cathie-black",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/5442.jpg"
+      },
+      "publication_date": "2013-01-24T13:27:18Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1934/sponsor_image.jpg"
+        }
+      },
+      "short_name": "the-secrets-of-networking-advice-from-cathie-black",
+      "model_type": "posts",
+      "excerpt": "We know—we tell you to network nearly every day. But today, don’t take it from us, take it from one of the most successful women we know: former Hearst president Cathie Black. ",
+      "author": {
+        "name": "Cathie Black",
+        "short_name": "cathie-black",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/cathie-black",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30594/authorship_primary.jpg"
+        }
+      },
+      "id": 1934
+    },
+    {
+      "name": "Work for a Nonprofit? What You Should Be Doing This Fall",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Career Advice",
+          "short_name": "career-advice",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-advice"
+          }
+        },
+        {
+          "name": "Do-Gooder by Rebecca Andruszka",
+          "short_name": "dogooder-by-rebecca-andruszka",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/dogooder-by-rebecca-andruszka"
+          }
+        },
+        {
+          "name": "Getting Ahead",
+          "short_name": "getting-ahead",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/getting-ahead"
+          }
+        },
+        {
+          "name": "Job Skills",
+          "short_name": "job-skills",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-skills"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Non-Profits",
+          "short_name": "nonprofits",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/nonprofits"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/work-for-a-nonprofit-what-you-should-be-doing-this-fall",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/8040.jpg"
+      },
+      "publication_date": "2013-10-10T15:57:09Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/3082/sponsor_image.jpg"
+        }
+      },
+      "short_name": "work-for-a-nonprofit-what-you-should-be-doing-this-fall",
+      "model_type": "posts",
+      "excerpt": "If you work for a nonprofit, don't shy away from other organizations' fundraisers—turns out, they can be great networking opportunities.",
+      "author": {
+        "name": "Rebecca Andruszka",
+        "short_name": "rebecca-andruszka",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/rebecca-andruszka",
+          "image": "https://assets-cf.themuse.com/uploaded/user/7973/authorship_primary.jpg"
+        }
+      },
+      "id": 3082
+    },
+    {
+      "name": "The Group You Should Start—Now",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Career Advancement",
+          "short_name": "career-advancement",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-advancement"
+          }
+        },
+        {
+          "name": "Career Advice",
+          "short_name": "career-advice",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-advice"
+          }
+        },
+        {
+          "name": "Getting Ahead",
+          "short_name": "getting-ahead",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/getting-ahead"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/the-group-you-should-startnow",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/8101.jpg"
+      },
+      "publication_date": "2013-10-17T12:20:02Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/3113/sponsor_image.jpg"
+        }
+      },
+      "short_name": "the-group-you-should-startnow",
+      "model_type": "posts",
+      "excerpt": "Take it from this professional: Starting a career group is the best thing you can do to get ahead.",
+      "author": {
+        "name": "Leda Marritz",
+        "short_name": "leda-marritz",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/leda-marritz",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30700/authorship_primary.jpg"
+        }
+      },
+      "id": 3113
+    },
+    {
+      "name": "8 Networking Ideas So Good You'll Want to Steal Them",
+      "type": "syndicated",
+      "tags": [
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "LearnVest",
+          "short_name": "learnvest",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/learnvest"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/8-networking-ideas-so-good-youll-want-to-steal-them",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/14668.jpg"
+      },
+      "publication_date": "2014-07-22T16:06:52Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/4744/sponsor_image.jpg"
+        }
+      },
+      "short_name": "8-networking-ideas-so-good-youll-want-to-steal-them",
+      "model_type": "posts",
+      "excerpt": "Expert networkers share their all-time best secrets for making connections and keeping them.",
+      "author": {
+        "name": "LearnVest",
+        "short_name": "learnvest",
+        "alt_text": "Molly Triffin of LearnVest",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/learnvest",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30520/authorship_primary.jpg"
+        }
+      },
+      "id": 4744
+    },
+    {
+      "name": "An Easy Way to Make Networking Way, Way Better",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "Work Relationships",
+          "short_name": "work-relationships",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/work-relationships"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/an-easy-way-to-make-networking-way-way-better",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/14650.jpg"
+      },
+      "publication_date": "2014-07-22T16:34:23Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/4748/sponsor_image.jpg"
+        }
+      },
+      "short_name": "an-easy-way-to-make-networking-way-way-better",
+      "model_type": "posts",
+      "excerpt": "Because wingmen aren't only good for dating.",
+      "author": {
+        "name": "Erin Greenawald",
+        "short_name": "erin-greenawald",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/erin-greenawald",
+          "image": "https://assets-cf.themuse.com/uploaded/user/6911/authorship_primary.jpg"
+        }
+      },
+      "id": 4748
+    },
+    {
+      "name": "7 Smart Networking Strategies for Any Personality Type",
+      "type": "syndicated",
+      "tags": [
+        {
+          "name": "Contacts",
+          "short_name": "contacts",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/contacts"
+          }
+        },
+        {
+          "name": "Getting Ahead",
+          "short_name": "getting-ahead",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/getting-ahead"
+          }
+        },
+        {
+          "name": "Inc.",
+          "short_name": "inc",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/inc"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/7-smart-networking-strategies-for-any-personality-type",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/14844.jpg"
+      },
+      "publication_date": "2014-08-12T14:05:01Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/4879/sponsor_image.jpg"
+        }
+      },
+      "short_name": "7-smart-networking-strategies-for-any-personality-type",
+      "model_type": "posts",
+      "excerpt": "Introvert? Extrovert? Socially awkward? These strategies will work for you. Promise.",
+      "author": {
+        "name": "Inc.",
+        "short_name": "inc",
+        "alt_text": "Christina Desmarais of Inc.",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/inc",
+          "image": "https://assets-cf.themuse.com/uploaded/user/56748/authorship_primary.jpg"
+        }
+      },
+      "id": 4879
+    },
+    {
+      "name": "The Future of Networking—and How You Can Take Advantage of It",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Career Advice",
+          "short_name": "career-advice",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-advice"
+          }
+        },
+        {
+          "name": "Career Videos",
+          "short_name": "career-videos",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-videos"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Work Relationships",
+          "short_name": "work-relationships",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/work-relationships"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/the-future-of-networkingand-how-you-can-take-advantage-of-it",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/15067.jpg"
+      },
+      "publication_date": "2014-08-30T16:56:55Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/4993/sponsor_image.jpg"
+        }
+      },
+      "short_name": "the-future-of-networkingand-how-you-can-take-advantage-of-it",
+      "model_type": "posts",
+      "excerpt": "Hint: It's not by making lame small talk.",
+      "author": {
+        "name": "Aja Frost",
+        "short_name": "aja-frost",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/aja-frost",
+          "image": "https://assets-cf.themuse.com/uploaded/user/59610/authorship_primary.jpg"
+        }
+      },
+      "id": 4993
+    },
+    {
+      "name": "Don't Have a Higher-Up Opening Doors for You Yet? That's OK",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Career Advice",
+          "short_name": "career-advice",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-advice"
+          }
+        },
+        {
+          "name": "Getting Ahead",
+          "short_name": "getting-ahead",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/getting-ahead"
+          }
+        },
+        {
+          "name": "Mentors",
+          "short_name": "mentors",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/mentors"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "Work Relationships",
+          "short_name": "work-relationships",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/work-relationships"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/dont-have-a-higherup-opening-doors-for-you-yet-thats-ok",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/15175.jpg"
+      },
+      "publication_date": "2014-09-10T12:52:02.445358Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/5049/sponsor_image.jpg"
+        }
+      },
+      "short_name": "dont-have-a-higherup-opening-doors-for-you-yet-thats-ok",
+      "model_type": "posts",
+      "excerpt": "The truth about sponsors at work. ",
+      "author": {
+        "name": "Joanna Barsh",
+        "short_name": "joanna-barsh",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/joanna-barsh",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30358/authorship_primary.jpg"
+        }
+      },
+      "id": 5049
+    },
+    {
+      "name": "The Quick Planning Step That'll Make Your Networking Meetings Way More Successful",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Communication",
+          "short_name": "communication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/communication"
+          }
+        },
+        {
+          "name": "Informational Interviews",
+          "short_name": "informational-interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/informational-interviews"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/the-quick-planning-step-thatll-make-your-networking-meetings-way-more-successful",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/16472.jpg"
+      },
+      "publication_date": "2015-02-17T15:15:53Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/6088/sponsor_image.jpg"
+        }
+      },
+      "short_name": "the-quick-planning-step-thatll-make-your-networking-meetings-way-more-successful",
+      "model_type": "posts",
+      "excerpt": "Hint: It has nothing to do with the coffee shop you meet at.",
+      "author": {
+        "name": "Lily Herman",
+        "short_name": "lily-herman",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/lily-herman",
+          "image": "https://assets-cf.themuse.com/uploaded/user/28850/authorship_primary.jpg"
+        }
+      },
+      "id": 6088
+    },
+    {
+      "name": "5 Smart Things to Do for Your Career This Spring",
+      "type": "syndicated",
+      "tags": [
+        {
+          "name": "Career Advice",
+          "short_name": "career-advice",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-advice"
+          }
+        },
+        {
+          "name": "Getting Ahead",
+          "short_name": "getting-ahead",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/getting-ahead"
+          }
+        },
+        {
+          "name": "Interviewing for a Job",
+          "short_name": "interviewing-for-a-job",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/interviewing-for-a-job"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "LearnVest",
+          "short_name": "learnvest",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/learnvest"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Resumes & Cover Letters",
+          "short_name": "resumes-cover-letters",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/resumes-cover-letters"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/5-smart-things-to-do-for-your-career-this-spring",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/16621.jpg"
+      },
+      "publication_date": "2015-03-05T12:46:34Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/6188/sponsor_image.jpg"
+        }
+      },
+      "short_name": "5-smart-things-to-do-for-your-career-this-spring",
+      "model_type": "posts",
+      "excerpt": "Career coaches share their secrets on tackling your work to-dos.",
+      "author": {
+        "name": "LearnVest",
+        "short_name": "learnvest",
+        "alt_text": "Stephanie Taylor Christensen of LearnVest",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/learnvest",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30520/authorship_primary.jpg"
+        }
+      },
+      "id": 6188
+    },
+    {
+      "name": "How Your References Can Land You (or Lose You) the Job",
+      "type": "syndicated",
+      "tags": [
+        {
+          "name": "Communication",
+          "short_name": "communication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/communication"
+          }
+        },
+        {
+          "name": "Inc.",
+          "short_name": "inc",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/inc"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "References and Recommendations",
+          "short_name": "references-and-recommendations",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/references-and-recommendations"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/how-your-references-can-land-you-or-lose-you-the-job",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/16741.jpg"
+      },
+      "publication_date": "2015-03-19T12:05:50Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/6281/sponsor_image.jpg"
+        }
+      },
+      "short_name": "how-your-references-can-land-you-or-lose-you-the-job",
+      "model_type": "posts",
+      "excerpt": "The ultimate guide to preparing your references.",
+      "author": {
+        "name": "Inc.",
+        "short_name": "inc",
+        "alt_text": "Minda Zetlin of Inc.",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/inc",
+          "image": "https://assets-cf.themuse.com/uploaded/user/56748/authorship_primary.jpg"
+        }
+      },
+      "id": 6281
+    },
+    {
+      "name": "3 Secrets to Building a Network of People Who Will Help You Succeed",
+      "type": "syndicated",
+      "tags": [
+        {
+          "name": "Career Advice",
+          "short_name": "career-advice",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-advice"
+          }
+        },
+        {
+          "name": "Communication",
+          "short_name": "communication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/communication"
+          }
+        },
+        {
+          "name": "Inc.",
+          "short_name": "inc",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/inc"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Workplace Relationships",
+          "short_name": "workplace-relationships",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/workplace-relationships"
+          }
+        },
+        {
+          "name": "Work Relationships",
+          "short_name": "work-relationships",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/work-relationships"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/3-secrets-to-building-a-network-of-people-who-will-help-you-succeed",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/16807.jpg"
+      },
+      "publication_date": "2015-03-30T15:09:55Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/6342/sponsor_image.jpg"
+        }
+      },
+      "short_name": "3-secrets-to-building-a-network-of-people-who-will-help-you-succeed",
+      "model_type": "posts",
+      "excerpt": "You'll become a pro at making meaningful, helpful connections. ",
+      "author": {
+        "name": "Inc.",
+        "short_name": "inc",
+        "alt_text": "Josh Mait of Inc. ",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/inc",
+          "image": "https://assets-cf.themuse.com/uploaded/user/56748/authorship_primary.jpg"
+        }
+      },
+      "id": 6342
+    },
+    {
+      "name": "17 Foolproof Ways to Escape a Bad Conversation, Inspired by Mindy Kaling ",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Communication",
+          "short_name": "communication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/communication"
+          }
+        },
+        {
+          "name": "Conferences",
+          "short_name": "conferences",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/conferences"
+          }
+        },
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Slideshare",
+          "short_name": "slideshare",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/slideshare"
+          }
+        },
+        {
+          "name": "Tools & Skills",
+          "short_name": "tools-skills",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/tools-skills"
+          }
+        },
+        {
+          "name": "Work Relationships",
+          "short_name": "work-relationships",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/work-relationships"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/17-foolproof-ways-to-escape-a-bad-conversation-inspired-by-mindy-kaling",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/17055.jpg"
+      },
+      "publication_date": "2015-04-25T12:55:05Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/6518/sponsor_image.jpg"
+        }
+      },
+      "short_name": "17-foolproof-ways-to-escape-a-bad-conversation-inspired-by-mindy-kaling",
+      "model_type": "posts",
+      "excerpt": "We've only needed these since, oh, age 10.",
+      "author": {
+        "name": "Aja Frost",
+        "short_name": "aja-frost",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/aja-frost",
+          "image": "https://assets-cf.themuse.com/uploaded/user/59610/authorship_primary.jpg"
+        }
+      },
+      "id": 6518
+    },
+    {
+      "name": "Proof That You're Not the First Person to Ask, \"Am I Networking or on a Date?\"",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Break Room",
+          "short_name": "break-room",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/break-room"
+          }
+        },
+        {
+          "name": "Career Advice",
+          "short_name": "career-advice",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-advice"
+          }
+        },
+        {
+          "name": "Career Videos",
+          "short_name": "career-videos",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-videos"
+          }
+        },
+        {
+          "name": "Dating",
+          "short_name": "dating",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/dating"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "Videos",
+          "short_name": "videos",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/videos"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/proof-that-youre-not-the-first-person-to-ask-am-i-networking-or-on-a-date",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/18047.png"
+      },
+      "publication_date": "2015-08-01T12:17:46Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/7202/sponsor_image.jpg"
+        }
+      },
+      "short_name": "proof-that-youre-not-the-first-person-to-ask-am-i-networking-or-on-a-date",
+      "model_type": "posts",
+      "excerpt": "Networking can be just as awkward as a first date.  ",
+      "author": {
+        "name": "Kaitlyn Russell",
+        "short_name": "kaitlyn-russell",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/kaitlyn-russell",
+          "image": "https://assets-cf.themuse.com/uploaded/user/268346/authorship_primary.jpg"
+        }
+      },
+      "id": 7202
+    },
+    {
+      "name": "4 Steps to Surviving an Awkward Networking Conversation",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Job Search",
+          "short_name": "job-search",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-search"
+          }
+        },
+        {
+          "name": "Job Skills",
+          "short_name": "job-skills",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/job-skills"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/4-steps-to-surviving-an-awkward-networking-conversation",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/2743.jpg"
+      },
+      "publication_date": "2012-06-07T15:28:27Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1036/sponsor_image.jpg"
+        }
+      },
+      "short_name": "4-steps-to-surviving-an-awkward-networking-conversation",
+      "model_type": "posts",
+      "excerpt": "Chatting it up with someone you have absolutely nothing in common with? That can be tough. But these go-to moves will help you make conversation with virtually anyone, no matter how awkward the situation feels.",
+      "author": {
+        "name": "Rikki Rogers",
+        "short_name": "rikki-rogers",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/rikki-rogers",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30324/authorship_primary.jpg"
+        }
+      },
+      "id": 1036
+    },
+    {
+      "name": "Why Connecting With Other Women is Critical to Your Career",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Career",
+          "short_name": "career",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career"
+          }
+        },
+        {
+          "name": "Career Advice",
+          "short_name": "career-advice",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-advice"
+          }
+        },
+        {
+          "name": "Getting Ahead",
+          "short_name": "getting-ahead",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/getting-ahead"
+          }
+        },
+        {
+          "name": "Inspiring Women",
+          "short_name": "inspiring-women",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/inspiring-women"
+          }
+        },
+        {
+          "name": "Mentors",
+          "short_name": "mentors",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/mentors"
+          }
+        },
+        {
+          "name": "Networking",
+          "short_name": "networking",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/networking"
+          }
+        },
+        {
+          "name": "The Gender Gap",
+          "short_name": "the-gender-gap",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/the-gender-gap"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/why-connecting-with-other-women-is-critical-to-your-career",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/2846.jpg"
+      },
+      "publication_date": "2012-06-15T11:30:32Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/1063/sponsor_image.jpg"
+        }
+      },
+      "short_name": "why-connecting-with-other-women-is-critical-to-your-career",
+      "model_type": "posts",
+      "excerpt": "If you're a woman in a male-dominated field, it can be difficult to find people who understand challenges you face. Claudia Chan reminds us why connecting with other women can give you support, help advance your career, and even change the world. ",
+      "author": {
+        "name": "Claudia Chan",
+        "short_name": "claudia-chan",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/claudia-chan",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30462/authorship_primary.jpg"
+        }
+      },
+      "id": 1063
+    }
+  ],
+  "page": 1
+}

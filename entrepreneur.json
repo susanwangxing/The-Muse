@@ -1,0 +1,1399 @@
+{
+  "took": 7,
+  "total": 425,
+  "timed_out": false,
+  "page_count": 22,
+  "results": [
+    {
+      "name": "Choosing Wisely: How to Pick Your Advisors",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Starting a Business",
+          "short_name": "starting-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/starting-a-business"
+          }
+        },
+        {
+          "name": "Startups",
+          "short_name": "startups",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startups"
+          }
+        },
+        {
+          "name": "Startup Week",
+          "short_name": "startup-week",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startup-week"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/choosing-wisely-how-to-pick-your-advisors",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/2093.jpg"
+      },
+      "publication_date": "2012-04-01T17:12:30Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/772/sponsor_image.jpg"
+        }
+      },
+      "short_name": "choosing-wisely-how-to-pick-your-advisors",
+      "model_type": "posts",
+      "excerpt": "As a new entrepreneur, you’ll want to get advice from as many people as you can. But when it comes to choosing your advisors, it’s much more important to be strategic. Here's how to know who to bring on board.",
+      "author": {
+        "name": "Claudia Chan",
+        "short_name": "claudia-chan",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/claudia-chan",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30462/authorship_primary.jpg"
+        }
+      },
+      "id": 772
+    },
+    {
+      "name": "Start-Up Week 2.0",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Startups",
+          "short_name": "startups",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startups"
+          }
+        },
+        {
+          "name": "Startup Week",
+          "short_name": "startup-week",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startup-week"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/startup-week-20",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/2104.png"
+      },
+      "publication_date": "2012-04-02T15:51:29Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/778/sponsor_image.jpg"
+        }
+      },
+      "short_name": "startup-week-20",
+      "model_type": "posts",
+      "excerpt": "Last week was Start-up Week at The Daily Muse, but you asked for more! So check in this week for even more savvy start-up advice, included splitting founder equity, getting funded, and more success stories from fabulous female founders.   ",
+      "author": {
+        "name": "The Daily Muse Editor",
+        "short_name": "editor",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/editor",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30301/authorship_primary.jpg?v=1a353d2da6565d47a2f59904a9eac6e333df17c725ea4434b45baef46d281b49"
+        }
+      },
+      "id": 778
+    },
+    {
+      "name": "How Many Times Can You Reinvent Shakespeare?",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Art",
+          "short_name": "art",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/art"
+          }
+        },
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Inspiring Women",
+          "short_name": "inspiring-women",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/inspiring-women"
+          }
+        },
+        {
+          "name": "Lifestyle",
+          "short_name": "lifestyle",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/lifestyle"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/how-many-times-can-you-reinvent-shakespeare",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/2167.jpg"
+      },
+      "publication_date": "2012-04-11T11:23:24Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/810/sponsor_image.jpg"
+        }
+      },
+      "short_name": "how-many-times-can-you-reinvent-shakespeare",
+      "model_type": "posts",
+      "excerpt": "For a community that claims to be so daring and adventurous, the theater world is actually pretty staid. Especially when it comes to parts for women. Read on for how two \"theater entrepreneurs\" are mixing up the scene with their new act, Blogologues.",
+      "author": {
+        "name": "Allison Goldberg and Jen Jamula",
+        "short_name": "allison-goldberg-and-jen-jamula",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/allison-goldberg-and-jen-jamula",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30472/authorship_primary.jpg"
+        }
+      },
+      "id": 810
+    },
+    {
+      "name": "My Biggest Mistake: I Jumped in Too Fast",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Business Plans",
+          "short_name": "business-plans",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/business-plans"
+          }
+        },
+        {
+          "name": "Career",
+          "short_name": "career",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career"
+          }
+        },
+        {
+          "name": "Career Advice",
+          "short_name": "career-advice",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/career-advice"
+          }
+        },
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Startups",
+          "short_name": "startups",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startups"
+          }
+        },
+        {
+          "name": "The Daily Muse Essay Contest",
+          "short_name": "the-daily-muse-essay-contest",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/the-daily-muse-essay-contest"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/my-biggest-mistake-i-jumped-in-too-fast",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/2253.jpg"
+      },
+      "publication_date": "2012-04-19T11:37:40Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/843/sponsor_image.jpg"
+        }
+      },
+      "short_name": "my-biggest-mistake-i-jumped-in-too-fast",
+      "model_type": "posts",
+      "excerpt": "Our fifth essay contest finalist jumped too fast into entrepreneurship. Here's what that mistake taught her, and how she's used it to build her successful business.",
+      "author": {
+        "name": "Laura Katen",
+        "short_name": "laura-katen",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/laura-katen",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30338/authorship_primary.jpg"
+        }
+      },
+      "id": 843
+    },
+    {
+      "name": "A Chat with Midnight Brunch Founder Emily Cavalier",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Food",
+          "short_name": "food",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/food"
+          }
+        },
+        {
+          "name": "Inspiring Women",
+          "short_name": "inspiring-women",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/inspiring-women"
+          }
+        },
+        {
+          "name": "Q&A Interviews",
+          "short_name": "qa-interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/qa-interviews"
+          }
+        },
+        {
+          "name": "Successful Entrepreneurs",
+          "short_name": "successful-entrepreneurs",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/successful-entrepreneurs"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/a-chat-with-midnight-brunch-founder-emily-cavalier",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/2417.jpg"
+      },
+      "publication_date": "2012-05-04T11:53:23Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/905/sponsor_image.jpg"
+        }
+      },
+      "short_name": "a-chat-with-midnight-brunch-founder-emily-cavalier",
+      "model_type": "posts",
+      "excerpt": "As founder and hostess of NY's Midnight Brunch supper club, Emily Cavalier has what most people would consider to be a dream job. We caught up with her on her choice to quit her steady paycheck to follow her dreams and the realities of being her own boss.",
+      "author": {
+        "name": "Colleen Hagerty",
+        "short_name": "colleen-hagerty",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/colleen-hagerty",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30483/authorship_primary.jpg"
+        }
+      },
+      "id": 905
+    },
+    {
+      "name": "Don't Get Bored at Demo Day - 2",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Startups",
+          "short_name": "startups",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startups"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/dont-get-bored-at-demo-day-2",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/9226.jpg"
+      },
+      "publication_date": "2013-03-26T16:56:34Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2219/sponsor_image.jpg"
+        }
+      },
+      "short_name": "dont-get-bored-at-demo-day-2",
+      "model_type": "posts",
+      "excerpt": "Demo Day dragging on? Spice things up and stay awake with our Demo Day Bingo.",
+      "author": {
+        "name": "The Daily Muse Editor",
+        "short_name": "editor",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/editor",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30301/authorship_primary.jpg?v=1a353d2da6565d47a2f59904a9eac6e333df17c725ea4434b45baef46d281b49"
+        }
+      },
+      "id": 2219
+    },
+    {
+      "name": "How to Get Through Tax Season Pain-Free: A Guide for New Entrepreneurs",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Freelancing",
+          "short_name": "freelancing",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/freelancing"
+          }
+        },
+        {
+          "name": "Money",
+          "short_name": "money",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/money"
+          }
+        },
+        {
+          "name": "Negotiation & Money",
+          "short_name": "negotiation-money",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/negotiation-money"
+          }
+        },
+        {
+          "name": "Personal Finance",
+          "short_name": "personal-finance",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/personal-finance"
+          }
+        },
+        {
+          "name": "Running a Business",
+          "short_name": "running-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/running-a-business"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "Taxes",
+          "short_name": "taxes",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/taxes"
+          }
+        },
+        {
+          "name": "Tools & Skills",
+          "short_name": "tools-skills",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/tools-skills"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/how-to-get-through-tax-season-painfree-a-guide-for-new-entrepreneurs",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/6321.jpg"
+      },
+      "publication_date": "2013-04-11T12:56:25Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2299/sponsor_image.jpg"
+        }
+      },
+      "short_name": "how-to-get-through-tax-season-painfree-a-guide-for-new-entrepreneurs",
+      "model_type": "posts",
+      "excerpt": "Tax season sucks for everyone, but it's even rougher if you have your own business. Whether you're trying to knock your taxes out this week or want to make next year's filing less painful, here are a few words of wisdom from a fellow entrepreneur.",
+      "author": {
+        "name": "Meredith Fineman",
+        "short_name": "meredith-fineman",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/meredith-fineman",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30627/authorship_primary.jpg"
+        }
+      },
+      "id": 2299
+    },
+    {
+      "name": "The Rookie's Guide to Starting a Business: Part 2",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurs",
+          "short_name": "entrepreneurs",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurs"
+          }
+        },
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Starting a Business",
+          "short_name": "starting-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/starting-a-business"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "The Rookie's Guide to Starting a Business by Megan Broussard",
+          "short_name": "the-rookies-guide-to-starting-a-business-by-megan-broussard",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/the-rookies-guide-to-starting-a-business-by-megan-broussard"
+          }
+        },
+        {
+          "name": "Work-Life Balance",
+          "short_name": "work-life-balance",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/work-life-balance"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/the-rookies-guide-to-starting-a-business-part-2",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/6354.jpg"
+      },
+      "publication_date": "2013-04-12T17:45:19Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2307/sponsor_image.jpg"
+        }
+      },
+      "short_name": "the-rookies-guide-to-starting-a-business-part-2",
+      "model_type": "posts",
+      "excerpt": "Ever wondered what it's like to launch a business? This week, our resident entrepreneur-in-training shares the challenges of balancing work, life, and a new business—and some of the things she's realized along the way. ",
+      "author": {
+        "name": "Megan Broussard",
+        "short_name": "professiongal",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/professiongal",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30421/authorship_primary.jpg"
+        }
+      },
+      "id": 2307
+    },
+    {
+      "name": "Video Pick: Successful Entrepreneurs Share Their Lessons Learned",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Running a Business",
+          "short_name": "running-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/running-a-business"
+          }
+        },
+        {
+          "name": "Videos",
+          "short_name": "videos",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/videos"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/video-pick-successful-entrepreneurs-share-their-lessons-learned",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/6421.jpg"
+      },
+      "publication_date": "2013-04-23T14:45:06Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2349/sponsor_image.jpg"
+        }
+      },
+      "short_name": "video-pick-successful-entrepreneurs-share-their-lessons-learned",
+      "model_type": "posts",
+      "excerpt": "When you're running your own business, getting the advice of other people who've been there before is a crucial key to success. So today, we're bringing that advice to you, with a quick video of the biggest lessons that successful entrepreneurs have learned along the way.",
+      "author": {
+        "name": "The Daily Muse Editor",
+        "short_name": "editor",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/editor",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30301/authorship_primary.jpg?v=1a353d2da6565d47a2f59904a9eac6e333df17c725ea4434b45baef46d281b49"
+        }
+      },
+      "id": 2349
+    },
+    {
+      "name": "The Rookie's Guide to Starting a Business: Part 3",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurs",
+          "short_name": "entrepreneurs",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurs"
+          }
+        },
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Starting a Business",
+          "short_name": "starting-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/starting-a-business"
+          }
+        },
+        {
+          "name": "Startups",
+          "short_name": "startups",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startups"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "The Rookie's Guide to Starting a Business by Megan Broussard",
+          "short_name": "the-rookies-guide-to-starting-a-business-by-megan-broussard",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/the-rookies-guide-to-starting-a-business-by-megan-broussard"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/the-rookies-guide-to-starting-a-business-part-3",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/6444.jpg"
+      },
+      "publication_date": "2013-04-26T13:57:28Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2364/sponsor_image.jpg"
+        }
+      },
+      "short_name": "the-rookies-guide-to-starting-a-business-part-3",
+      "model_type": "posts",
+      "excerpt": "Ever wondered what it's like to launch a business? This new entrepreneur shares the habits that she thought would be helpful early on but that have actually slowed her progress getting her business off the ground. ",
+      "author": {
+        "name": "Megan Broussard",
+        "short_name": "professiongal",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/professiongal",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30421/authorship_primary.jpg"
+        }
+      },
+      "id": 2364
+    },
+    {
+      "name": "Empowering 5 Million Women Entrepreneurs Worldwide",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Break Room",
+          "short_name": "break-room",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/break-room"
+          }
+        },
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Inspiring Women",
+          "short_name": "inspiring-women",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/inspiring-women"
+          }
+        },
+        {
+          "name": "Running a Business",
+          "short_name": "running-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/running-a-business"
+          }
+        },
+        {
+          "name": "Trending Topics",
+          "short_name": "trending-topics",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/trending-topics"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/empowering-5-million-women-entrepreneurs-worldwide",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/6463.jpg"
+      },
+      "publication_date": "2013-04-28T10:21:36Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2368/sponsor_image.jpg"
+        }
+      },
+      "short_name": "empowering-5-million-women-entrepreneurs-worldwide",
+      "model_type": "posts",
+      "excerpt": "Through its 5by20 initiative, Coca-Cola aims to empower 5 million women around the world by providing them with resources to start and run their own businesses. Read on to learn more about the initiative and hear the inspiring story of one entrepreneur. ",
+      "author": {
+        "name": "The Daily Muse Editor",
+        "short_name": "editor",
+        "alt_text": "Deborah Hastings of Coca-Cola",
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/editor",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30301/authorship_primary.jpg?v=1a353d2da6565d47a2f59904a9eac6e333df17c725ea4434b45baef46d281b49"
+        }
+      },
+      "id": 2368
+    },
+    {
+      "name": "3 Big Mistakes New Entrepreneurs Make (and How to Avoid Them)",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Mistakes",
+          "short_name": "mistakes",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/mistakes"
+          }
+        },
+        {
+          "name": "Starting a Business",
+          "short_name": "starting-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/starting-a-business"
+          }
+        },
+        {
+          "name": "Startups",
+          "short_name": "startups",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startups"
+          }
+        },
+        {
+          "name": "Start-up Smarts by Alison Johnston",
+          "short_name": "startup-smarts-by-alison-johnston",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startup-smarts-by-alison-johnston"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/3-big-mistakes-new-entrepreneurs-make-and-how-to-avoid-them",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/6571.jpg"
+      },
+      "publication_date": "2013-05-09T17:34:16Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2423/sponsor_image.jpg"
+        }
+      },
+      "short_name": "3-big-mistakes-new-entrepreneurs-make-and-how-to-avoid-them",
+      "model_type": "posts",
+      "excerpt": "When you're launching a company, it's natural to want to work on your site or product until it's perfect. But turns out, this isn't the best approach. Here's why, plus other common mistakes new entrepreneurs make.",
+      "author": {
+        "name": "Alison Johnston Rue",
+        "short_name": "alison-johnston",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/alison-johnston",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30570/authorship_primary.jpg"
+        }
+      },
+      "id": 2423
+    },
+    {
+      "name": "3 Surprisingly Useful Business Lessons From The Real Housewives",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Hey Girl",
+          "short_name": "hey-girl",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/hey-girl"
+          }
+        },
+        {
+          "name": "I'm on a Budget by Kianta Key",
+          "short_name": "im-on-a-budget-by-kianta-key",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/im-on-a-budget-by-kianta-key"
+          }
+        },
+        {
+          "name": "Running a Business",
+          "short_name": "running-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/running-a-business"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/3-surprisingly-useful-business-lessons-from-the-real-housewives",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/6919.jpg"
+      },
+      "publication_date": "2013-05-23T10:39:06Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2482/sponsor_image.jpg"
+        }
+      },
+      "short_name": "3-surprisingly-useful-business-lessons-from-the-real-housewives",
+      "model_type": "posts",
+      "excerpt": "Sure, the Real Housewives provide hours of entertainment—but, as this entrepreneur recently learned, they can actually teach us a thing or two about business partnerships. Read on for three surprisingly useful lessons.",
+      "author": {
+        "name": "Kianta Key",
+        "short_name": "kianta-key",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/kianta-key",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30547/authorship_primary.jpg"
+        }
+      },
+      "id": 2482
+    },
+    {
+      "name": "The Rookie's Guide to Starting a Business: Part 4",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurs",
+          "short_name": "entrepreneurs",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurs"
+          }
+        },
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Hiring",
+          "short_name": "hiring",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/hiring"
+          }
+        },
+        {
+          "name": "Management",
+          "short_name": "management",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/management"
+          }
+        },
+        {
+          "name": "Starting a Business",
+          "short_name": "starting-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/starting-a-business"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "The Rookie's Guide to Starting a Business by Megan Broussard",
+          "short_name": "the-rookies-guide-to-starting-a-business-by-megan-broussard",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/the-rookies-guide-to-starting-a-business-by-megan-broussard"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/the-rookies-guide-to-starting-a-business-part-4",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/6920.jpg"
+      },
+      "publication_date": "2013-05-24T11:30:10Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2486/sponsor_image.jpg"
+        }
+      },
+      "short_name": "the-rookies-guide-to-starting-a-business-part-4",
+      "model_type": "posts",
+      "excerpt": "After hiring her first employee, this new entrepreneur realized she had a lot to learn about being a good leader to her new partner in crime. Read on for three important lessons when welcoming new members to your team. ",
+      "author": {
+        "name": "Megan Broussard",
+        "short_name": "professiongal",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/professiongal",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30421/authorship_primary.jpg"
+        }
+      },
+      "id": 2486
+    },
+    {
+      "name": "Video Pick: Leadership Lessons From a Viral Video",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Leadership",
+          "short_name": "leadership",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/leadership"
+          }
+        },
+        {
+          "name": "Management Videos",
+          "short_name": "management-videos",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/management-videos"
+          }
+        },
+        {
+          "name": "Starting a Business",
+          "short_name": "starting-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/starting-a-business"
+          }
+        },
+        {
+          "name": "Videos",
+          "short_name": "videos",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/videos"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/video-pick-leadership-lessons-from-a-viral-video",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/7052.jpg"
+      },
+      "publication_date": "2013-06-11T13:41:22Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2562/sponsor_image.jpg"
+        }
+      },
+      "short_name": "video-pick-leadership-lessons-from-a-viral-video",
+      "model_type": "posts",
+      "excerpt": "When looking for leadership advice, you probably wouldn't turn to a viral video. But that's exactly what Derek Sivers did in this talk—with surprising results. ",
+      "author": {
+        "name": "The Daily Muse Editor",
+        "short_name": "editor",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/editor",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30301/authorship_primary.jpg?v=1a353d2da6565d47a2f59904a9eac6e333df17c725ea4434b45baef46d281b49"
+        }
+      },
+      "id": 2562
+    },
+    {
+      "name": "Launching Start-ups Across the Pond: A Q&A With Courtney Boyd Myers",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Inspiring Women",
+          "short_name": "inspiring-women",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/inspiring-women"
+          }
+        },
+        {
+          "name": "Q&A Interviews",
+          "short_name": "qa-interviews",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/qa-interviews"
+          }
+        },
+        {
+          "name": "Startups",
+          "short_name": "startups",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/startups"
+          }
+        },
+        {
+          "name": "Successful Entrepreneurs",
+          "short_name": "successful-entrepreneurs",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/successful-entrepreneurs"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/launching-startups-across-the-pond-a-qa-with-courtney-boyd-myers",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/7265.png"
+      },
+      "publication_date": "2013-07-03T15:45:15Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2662/sponsor_image.jpg"
+        }
+      },
+      "short_name": "launching-startups-across-the-pond-a-qa-with-courtney-boyd-myers",
+      "model_type": "posts",
+      "excerpt": "With her new venture, audience.io, Courtney Boyd Myers helps New York and London-based start-ups do business across the world.",
+      "author": {
+        "name": "The Daily Muse Editor",
+        "short_name": "editor",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/editor",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30301/authorship_primary.jpg?v=1a353d2da6565d47a2f59904a9eac6e333df17c725ea4434b45baef46d281b49"
+        }
+      },
+      "id": 2662
+    },
+    {
+      "name": "Newsroom Newbie: What to Expect When You Go on TV",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Communication",
+          "short_name": "communication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/communication"
+          }
+        },
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Front and Center by Alex Honeysett",
+          "short_name": "front-and-center-by-alex-honeysett",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/front-and-center-by-alex-honeysett"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "Tools & Skills",
+          "short_name": "tools-skills",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/tools-skills"
+          }
+        },
+        {
+          "name": "TV",
+          "short_name": "tv",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/tv"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/newsroom-newbie-what-to-expect-when-you-go-on-tv",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/7342.png"
+      },
+      "publication_date": "2013-07-17T11:59:24Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2713/sponsor_image.jpg"
+        }
+      },
+      "short_name": "newsroom-newbie-what-to-expect-when-you-go-on-tv",
+      "model_type": "posts",
+      "excerpt": "Landed a TV appearance? Congrats! Get the basics on what to expect from our media pro.",
+      "author": {
+        "name": "Alex Honeysett",
+        "short_name": "alex-honeysett",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/alex-honeysett",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30458/authorship_primary.jpg"
+        }
+      },
+      "id": 2713
+    },
+    {
+      "name": "What to Expect When You Go on TV",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Communication",
+          "short_name": "communication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/communication"
+          }
+        },
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Front and Center by Alex Honeysett",
+          "short_name": "front-and-center-by-alex-honeysett",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/front-and-center-by-alex-honeysett"
+          }
+        },
+        {
+          "name": "Tools & Skills",
+          "short_name": "tools-skills",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/tools-skills"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/what-to-expect-when-you-go-on-tv",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/9237.jpg"
+      },
+      "publication_date": "2013-07-19T01:57:44Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2723/sponsor_image.jpg"
+        }
+      },
+      "short_name": "what-to-expect-when-you-go-on-tv",
+      "model_type": "posts",
+      "excerpt": "Landed a TV appearance? Congrats! Get the basics on what to expect from our media pro.",
+      "author": {
+        "name": "Alex Honeysett",
+        "short_name": "alex-honeysett",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/alex-honeysett",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30458/authorship_primary.jpg"
+        }
+      },
+      "id": 2723
+    },
+    {
+      "name": "3 Power Tools to Stay Productive as an Entrepreneur",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Entrepreneurs",
+          "short_name": "entrepreneurs",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurs"
+          }
+        },
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Focus",
+          "short_name": "focus",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/focus"
+          }
+        },
+        {
+          "name": "Productivity",
+          "short_name": "productivity",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/productivity"
+          }
+        },
+        {
+          "name": "Running a Business",
+          "short_name": "running-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/running-a-business"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "The Rookie's Guide to Starting a Business by Megan Broussard",
+          "short_name": "the-rookies-guide-to-starting-a-business-by-megan-broussard",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/the-rookies-guide-to-starting-a-business-by-megan-broussard"
+          }
+        },
+        {
+          "name": "Tools & Skills",
+          "short_name": "tools-skills",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/tools-skills"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/3-power-tools-to-stay-productive-as-an-entrepreneur",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/7561.jpg"
+      },
+      "publication_date": "2013-08-16T11:44:45Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2845/sponsor_image.jpg"
+        }
+      },
+      "short_name": "3-power-tools-to-stay-productive-as-an-entrepreneur",
+      "model_type": "posts",
+      "excerpt": "Need help keeping it all together? See how these three tools made a huge difference in keeping this entrepreneur's overloaded mind on track.",
+      "author": {
+        "name": "Megan Broussard",
+        "short_name": "professiongal",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/professiongal",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30421/authorship_primary.jpg"
+        }
+      },
+      "id": 2845
+    },
+    {
+      "name": "4 Ways to Refocus Your Company's Message",
+      "type": "normal",
+      "tags": [
+        {
+          "name": "Audiences",
+          "short_name": "audiences",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/audiences"
+          }
+        },
+        {
+          "name": "Building a Brand",
+          "short_name": "building-a-brand",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/building-a-brand"
+          }
+        },
+        {
+          "name": "Communication",
+          "short_name": "communication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/communication"
+          }
+        },
+        {
+          "name": "Entrepreneurship",
+          "short_name": "entrepreneurship",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/entrepreneurship"
+          }
+        },
+        {
+          "name": "Front and Center by Alex Honeysett",
+          "short_name": "front-and-center-by-alex-honeysett",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/front-and-center-by-alex-honeysett"
+          }
+        },
+        {
+          "name": "Marketing",
+          "short_name": "marketing",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/marketing"
+          }
+        },
+        {
+          "name": "Public Relations",
+          "short_name": "public-relations",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/public-relations"
+          }
+        },
+        {
+          "name": "Running a Business",
+          "short_name": "running-a-business",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/running-a-business"
+          }
+        },
+        {
+          "name": "Syndication",
+          "short_name": "syndication",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/syndication"
+          }
+        },
+        {
+          "name": "Tools & Skills",
+          "short_name": "tools-skills",
+          "refs": {
+            "landing_page": "https://www.themuse.com/tags/tools-skills"
+          }
+        }
+      ],
+      "refs": {
+        "landing_page": "https://www.themuse.com/advice/4-ways-to-refocus-your-companys-message",
+        "primary_image": "https://assets-cf.themuse.com/uploaded/attachments/7651.jpg"
+      },
+      "publication_date": "2013-08-28T14:33:13Z",
+      "sponsor": {
+        "name": null,
+        "refs": {
+          "link": null,
+          "image": "https://assets-cf.themuse.com/uploaded/posts/2896/sponsor_image.jpg"
+        }
+      },
+      "short_name": "4-ways-to-refocus-your-companys-message",
+      "model_type": "posts",
+      "excerpt": "Your company evolves over months and years, and so should your messaging. Our PR expert shares a few ways to shake up your communications.",
+      "author": {
+        "name": "Alex Honeysett",
+        "short_name": "alex-honeysett",
+        "alt_text": null,
+        "refs": {
+          "landing_page": "https://www.themuse.com/authors/alex-honeysett",
+          "image": "https://assets-cf.themuse.com/uploaded/user/30458/authorship_primary.jpg"
+        }
+      },
+      "id": 2896
+    }
+  ],
+  "page": 1
+}
